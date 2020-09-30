@@ -7,7 +7,7 @@
 #define f(i,a,b) for(int i=a;i<b;i++)
 using namespace std;//used correctly
 long ity;
-#include<string.h>
+#include<string.h>//this is right
 void solve()//conclude
 {
     ll n, k;
