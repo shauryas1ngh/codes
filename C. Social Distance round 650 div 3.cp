@@ -41,7 +41,7 @@ void solve()
     cout<<counter<<endl;
 }
 
-
+//cout<<end1
 
 int main()
 {
