@@ -6,6 +6,7 @@
 #define endl "\n"
 #define f(i,a,b) for(int i=a;i<b;i++)
 using namespace std;
+long ity;
 #include<string.h>
 void solve()//conclude
 {
