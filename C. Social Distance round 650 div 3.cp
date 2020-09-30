@@ -7,7 +7,7 @@
 #define f(i,a,b) for(int i=a;i<b;i++)
 using namespace std;
 #include<string.h>
-void solve()
+void solve()//conclude
 {
     ll n, k;
     cin>>n>>k;
