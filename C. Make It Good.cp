@@ -54,7 +54,7 @@ void solve()
         return;
     }
     
-    
+    while(false);
     
     
     ll z=0;
