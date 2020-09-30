@@ -4,6 +4,7 @@
 #define ll long lo
 #define wh(t) int t;cin>>t; while(t--)
 using namespace std;
+long itz=89;
 #include<string.h>
 void solve()
 {
