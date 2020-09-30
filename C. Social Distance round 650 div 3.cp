@@ -5,7 +5,7 @@
 #define speed  ios::sync_with_stdio(0); cin.tie(0);
 #define endl "\n"
 #define f(i,a,b) for(int i=a;i<b;i++)
-using namespace std;
+using namespace std;//used correctly
 long ity;
 #include<string.h>
 void solve()//conclude
