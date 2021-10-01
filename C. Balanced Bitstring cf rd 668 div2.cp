@@ -26,7 +26,7 @@ void solve()
         for(int j=i;j<s.size();j+=k)
         {
             if(s[j]=='?')
-                continue;
+                continue;                     //done with the part
             if(v[i]=='?' || v[i]==s[j])
                 v[i]=s[j];
             else if(v[i]!=s[j])
