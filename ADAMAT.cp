@@ -13,7 +13,7 @@ using namespace std;
 const int mxn=65;
 ll arr[mxn][mxn];
 int checker[mxn];
-
+//this is correct
 void solve()
 {
     memset(arr,0,sizeof(arr));
