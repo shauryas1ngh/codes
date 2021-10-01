@@ -12,7 +12,7 @@ void solve()
 {
     ll a, b, n;
     cin>>a>>b>>n;
-    
+                            //take two a and l together
     if(a<b)
     swap(a, b);
     int counter=0;
