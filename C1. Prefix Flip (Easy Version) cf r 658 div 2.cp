@@ -15,7 +15,7 @@ void operation(string &s , int i)
     string part1=s.substr(0,i);
     string part2=s.substr(i);
     
-    reverse(part1.begin(), part1.end());
+    reverse(part1.begin(), part1.end());   //you can part1 and part2
     
     for(int j=0;j<i;j++)
     {
