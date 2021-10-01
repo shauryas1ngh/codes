@@ -22,6 +22,7 @@ void solve()
 
     else if(a==0 || b==0)
         cout<<-1<<endl;
+    print("hello");
     
     
     else{
