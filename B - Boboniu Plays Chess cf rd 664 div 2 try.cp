@@ -16,7 +16,7 @@ void functt(int m, int n, int x, int y)
 {
     int i, k = 1, l = 1;
   
-
+                                                             //okdone define speed ios::sync_with_stdio(0);
   
     while (k <= m && l <= n) {
      
