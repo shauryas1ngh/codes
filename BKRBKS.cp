@@ -6,7 +6,7 @@
 //  Copyright © 2020 Aditya  Ranaut. All rights reserved.
 //
 using namespace std;
-#include <iostream>
+#include <iostream>   
 #include<stdlib.h>
 #include<stdio.h>
 
@@ -24,7 +24,7 @@ int main()
         else if(w1+w2<=s || w1+w3<=s || w2+w3<=s)
             cout<<"2";
         else
-            cout<<"3";
+            cout<<"3";                                            //there is no issue ok
         
         cout<<"\n";
     }
