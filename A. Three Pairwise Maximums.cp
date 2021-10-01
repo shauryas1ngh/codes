@@ -5,7 +5,9 @@
 #define speed  ios::sync_with_stdio(0); cin.tie(0);
 #define endl "\n"
 #define f(i,a,b) for(int i=a;i<b;i++)
-using namespace std;
+
+// this is not working...
+using namespacestd;
 #include<string.h>
 
 //aditya ranaut- phoenix_aditya

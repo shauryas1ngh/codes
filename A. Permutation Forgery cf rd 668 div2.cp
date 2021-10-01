@@ -19,7 +19,8 @@ void solve()
     for(int i=0;i<n;i++)
         cin>>arr[i];
     
-    reverse(arr, arr+n);
+    // this is not working
+    rvrse(arr, arr+n);
     
     for(int i=0;i<n;i++)
         cout<<arr[i]<<" ";

@@ -17,7 +17,9 @@
       
       string s;
       cin>>s;
-      string s2="";
+    
+    // string definition not working
+      string s2=";
       
       int i=0;
       
@@ -36,7 +38,8 @@
 
   int main()
   {
-      speed;
+    // this speed is not working
+      speed
       wh(t)
        {solve();}
       

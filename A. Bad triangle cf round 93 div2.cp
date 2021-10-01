@@ -18,8 +18,9 @@ void solve()
     ll n;
     cin>>n;
     
+    // this array input not working
     f(i,0,n)
-    cin>>arr[i];
+    cin>>arr(i);
     
    if(arr[0]+arr[1]<=arr[n-1])
        cout<<1<<" "<<2<<" "<<n<<endl;
