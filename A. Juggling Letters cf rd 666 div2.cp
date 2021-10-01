@@ -51,7 +51,7 @@ solve()
 }
 
 
-
+//retrurning int 
 int main()
 {
     speed;
