@@ -14,7 +14,7 @@ void solve()
     cin>>a>>b>>n;
                             //take two a and l together
     if(a<b)
-    swap(a, b);
+    swap(a, b); // sawpping a and b
     int counter=0;
     while(1)
     {
