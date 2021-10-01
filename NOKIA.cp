@@ -3,7 +3,7 @@
 #define ll long long
 #define wh(t) int t;cin>>t; while(t--)
 using namespace std;
-#include<string.h>
+#include<string.h>                                    //okay nice ,but edit pi
 
 ll minval(int l, int r, int spaces)
 {
